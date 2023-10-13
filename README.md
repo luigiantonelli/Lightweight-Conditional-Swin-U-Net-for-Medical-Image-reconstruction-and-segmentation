@@ -2,7 +2,7 @@
 
 Author: Luigi Antonelli
 
-Implementation in PyTorch (and PyTorch Lightning) of the Deep Learning architectures introduced in the Master Thesis "Lightweight Conditional Swin U-Net for Medical Image reconstruction and segmentation
+Implementation in PyTorch (and PyTorch Lightning) of the Deep Learning architectures introduced in the Master Thesis "Lightweight Conditional Swin U-Net for Medical Image reconstruction and segmentation".
 
 Autore: Luigi Antonelli
 
